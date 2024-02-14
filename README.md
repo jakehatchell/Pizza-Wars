@@ -9,7 +9,7 @@ Results of each simulation are stored in a file named log.txt. If the file does 
 If it does, simulation results will be appended to the file.
 
 Rules:
-- The simulation runs for 7 days, starting on a sunday.
+- The simulation runs for 7 days, starting on a Sunday.
 - Core is able to have 3 pizzas out for consumption at once, Schilletter has 6
 - Core can produce 2 pizzas per tick, Schilleter can produce 1
 - Pizzas can be "dropped" causing them to never reach the students 
